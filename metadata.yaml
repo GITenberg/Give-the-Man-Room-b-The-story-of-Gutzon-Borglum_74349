@@ -1,5 +1,8 @@
 _repo: Give-the-Man-Room-b-The-story-of-Gutzon-Borglum_74349
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74349-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Casey, Robert Joseph
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '57459'
     url: http://www.gutenberg.org/2009/agents/57459
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74349#Give-the-Man-Room-b-The-story-of-Gutzon-Borglum
 gutenberg_issued: '2024-09-02'
 gutenberg_type: Text
 identifiers:
